@@ -1,6 +1,6 @@
 # Market Trading Algorithm in Java
 
-## The code for this repo is private due to an NDA with CME Group
+## The code for this repo is confidential due to an NDA with CME Group
 
 Developed in collaboration with fellow interns a sophisticated trading algorithm in Java, utilizing short and long term
 Exponential Moving Averages, Bollinger Bands, and the RSI to analyze market trends and price volatility effectively.
